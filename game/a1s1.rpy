@@ -5,7 +5,7 @@ label a1s1:
 stop music fadeout 3.5
 scene black
 with transition_fade
-show text "{size=70}Run{/size}" with medium_dissolve
+show text "{size=70}Correr{/size}" with medium_dissolve
 pause 2.0
 hide text with medium_dissolve
 pause 1.0
@@ -19,7 +19,7 @@ window show
 #cu
 #Os diálogos originais ficam em cima dos diálogos traduzidos, na forma de comentário#
  
-
+ 
 #"Running was something he was always good at. He was always the fastest in his class."
 "Correr era algo que ele sempre foi bom em fazer. Ele sempre foi o mais rápido da turma."
 #"Just last year, he came in second in the 200-meter dash at the state track meet."
@@ -257,7 +257,7 @@ d "\"Ali é o Lago Emma, {w=0.3}então Echo fica--\""
 #"Dev asked him in the past to go on his amateur \"paranormal investigations\"."
 "Dev perguntou pra ele no passado se ele queria participar das suas \"investigações paranormais amadoras\"."
 #"All because the coyote could \"see\" things."
-"Tudo porque o coiote conseguia \"ver"\"coisas."
+"Tudo porque o coiote conseguia \"ver\"coisas."
 #"He'd remind Dev the proper word was \"hallucinate\"."
 "Ele sempre falava para Dev que a palavra correta era \"alucinar\"."
 #"The things he saw were manifested by his own mind."

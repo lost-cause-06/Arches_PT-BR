@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/a1s1.rpy", line 260: expected statement.
+    "Tudo porque o coiote conseguia \"ver"\"coisas."
+                                          ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Fri May 23 14:21:51 2025
