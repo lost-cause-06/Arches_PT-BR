@@ -8,7 +8,7 @@ with transition_fade
 show text "{size=70}Correr{/size}" with medium_dissolve
 pause 2.0
 hide text with medium_dissolve
-pause 1.0
+pause 1.0  
 play background reststop fadein 3.0
 scene bg rural_road_day with medium_dissolve
 pause 3.0
@@ -19,7 +19,7 @@ window show
 #cu
 #Os diálogos originais ficam em cima dos diálogos traduzidos, na forma de comentário#
  
- 
+
 #"Running was something he was always good at. He was always the fastest in his class."
 "Correr era algo que ele sempre foi bom em fazer. Ele sempre foi o mais rápido da turma."
 #"Just last year, he came in second in the 200-meter dash at the state track meet."

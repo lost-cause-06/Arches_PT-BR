@@ -1,0 +1,26 @@
+#   ignora os arquivos de log, traceback e erros que são gerados automaticamente pelo ren'py    #
+
+*log*
+errors*
+traceback*
+
+#   ignora os diretórios e arquivos que não serão modificados                                   #
+
+window_icon.png
+Arches*
+lib/
+renpy/
+.vscode/
+game/saves
+
+#################################################################################################
+#   obs: o diretório game/saves vai ser ignorado por dois motivos:                              #
+#                                                                                               #
+#   1- esse diretório é criado ao iniciar o jogo automaticamente junto com alguns arquivos      #
+#      de auto-save gerados automaticamente, também quando o jogo é iniciado.                   #
+#                                                                                               #
+#   2- enquanto eu traduzo o jogo, eu posso jogar ele as vezes pra testar as coisas.            #
+#      e a função de save pode ser útil pra eu não precisar skippar o jogo inteiro pra chegar   #
+#      em partes específicas do jogo. será ignorado justamente pra quando algm de fora compilar #
+#      o jogo no github, não vier com saves.                                                    #
+#################################################################################################
